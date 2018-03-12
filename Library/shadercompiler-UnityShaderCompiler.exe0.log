@@ -1,0 +1,42 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=1459 outsize=702 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (142): failed to open source file: 'Assets/OvrAvatar/Content/Materials/AvatarMaterialStateShader.cginc'
+  insize=5890 outsize=5193 ok=0
+Cmd: preprocess
+  insize=2147 outsize=1064 ok=1
+Cmd: preprocess
+  insize=933 outsize=367 ok=1
+Cmd: preprocess
+  insize=2342 outsize=813 ok=1
+Cmd: preprocess
+  insize=1467 outsize=485 ok=1
+Cmd: preprocess
+  insize=1079 outsize=340 ok=1
+Cmd: preprocess
+  insize=566 outsize=563 ok=1
+Cmd: preprocess
+  insize=807 outsize=212 ok=1
+Cmd: preprocess
+  insize=1153 outsize=448 ok=1
+Cmd: preprocess
+  insize=3230 outsize=598 ok=1
+Cmd: preprocess
+  insize=2949 outsize=1144 ok=1
+Cmd: preprocess
+  insize=1652 outsize=703 ok=1
+Cmd: preprocess
+  insize=3023 outsize=1003 ok=1
+Cmd: preprocess
+  insize=336 outsize=336 ok=1
+Cmd: preprocess
+  error: 2 plat 20 at (115): failed to open source file: 'Assets/OvrAvatar/Content/Materials/AvatarMaterialStateShader.cginc'
+  insize=5427 outsize=5056 ok=0
+Cmd: preprocess
+  insize=1004 outsize=1804 ok=1
+Cmd: preprocess
+  insize=1728 outsize=947 ok=1
+Cmd: preprocess
+  insize=1745 outsize=1632 ok=1
